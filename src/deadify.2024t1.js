@@ -29,6 +29,7 @@
 		if (week < 1) return `getting set to get rekt!`
 		if (week <= 3) return `feeling great. Put yourself together and stop being so cynical.`
 		if (week <= 6) return `hating your courses a bit, but still getting things done.`
+		if (week <= 9) return `realising the end of Tri is approaching rapidly. Start running.`
 		return `embracing dark magic!<br /><img src="https://i.imgur.com/PtmRbyL.gif" />`
 	}
 
